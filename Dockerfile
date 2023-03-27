@@ -1,5 +1,5 @@
 #FROM madnificent/sbcl-quicklisp:2.3.0-20221107
-FROM brechtvdv/brechtvdv/sbcl-quicklisp
+FROM brechtvdv/sbcl-quicklisp
 
 ENV LC_TYPE=en_US.UTF-8
 
